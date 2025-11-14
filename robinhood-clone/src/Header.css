@@ -33,3 +33,16 @@
 .header__searchContainer > input:focus {
     outline:none;
 }
+.menu__items{
+    margin-left: 48px;
+    margin-right: 48px;
+}
+.menu__items a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 0 10px;
+}
+.menu__items a:hover{
+    color: #5AC53B;
+}
